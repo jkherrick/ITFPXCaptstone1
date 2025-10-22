@@ -1,0 +1,11 @@
+Milestone	Target Completion Date
+Project Charter Approval	January 2026
+Design Completion	February 2026
+Calculation Use Case Development	April 2026
+Detailed Requirements Completion	May 2026
+Legal/Compliance Gateway Sign-Off	June 2026
+API/Data Integration Build Completion	August 2026
+AEM Component Development Complete	November 2026
+System Testing and UAT	December 2026
+Production Launch	January 2027
+Project Closure and Post-Implementation Review	February 2027
