@@ -1,11 +1,9 @@
-Milestone	Target Completion Date
-Project Charter Approval	January 2026
-Design Completion	February 2026
-Calculation Use Case Development	April 2026
-Detailed Requirements Completion	May 2026
-Legal/Compliance Gateway Sign-Off	June 2026
-API/Data Integration Build Completion	August 2026
-AEM Component Development Complete	November 2026
-System Testing and UAT	December 2026
-Production Launch	January 2027
-Project Closure and Post-Implementation Review	February 2027
+Communication: How have you used business communication and tools in developing the project proposal?
+Decision Tools: What IT tools have you used in developing the proposal and in collaborating during the planning process?
+Collaboration: Reflect on the role of collaboration in developing your proposal.
+Who did you work with to accomplish the planning in the environment, and how did your connection with them help shape your proposal?
+How has feedback from your site supervisor or critical friend contributed to the development of your proposal?
+Reflective Learning: Consider the value that your educational and personal background brought to the process. (See your self-assessment.)
+How has your learning process in your program at Capella contributed to your approach to developing your final project proposal?
+How have other aspects of your background helped or potentially hindered your work on this proposal?
+What lessons have you learned from this process that you would apply to future planning pursuits in your field?
